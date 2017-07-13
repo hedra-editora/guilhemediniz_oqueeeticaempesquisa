@@ -606,7 +606,7 @@ abr. 2008.\] Disponível em: <http://www.ocyt.org.co/esocite/Ponencias\_ESOCITEP
 
 [^footnote8]: SHELDON, H. H. Japanese medical atrocities in World War II: Unit 731
     was not an isolated aberration. International Citizens Forum on
-    War Crimes & Redress; 1999 Dec. 11; Tokyo, Japan. \[\[AAcceessso
+    War Crimes & Redress; 1999 Dec. 11; Tokyo, Japan. \[\[Acesso
     em 18 abr. 2008.\] Disponível em: <http://www.vcn.bc.ca/alpha/
     speech/Harris.htm>.
 
@@ -699,7 +699,7 @@ Chapel Hill: The University of North Carolina Press, 2000. p. 119-24.
 
 [^footnote31]: COUNCIL FOR INTERNATIONAL ORGANIZATIONS OF MEDICAL SCIENCES.
     International guidelines for ethical review of epidemiological
-    studies. Geneva: CIOMS/WHO, 1991. \[\[AAcceessso em 3 mai. 2008.\]
+    studies. Geneva: CIOMS/WHO, 1991. \[\[Acesso em 3 mai. 2008.\]
     Disponível em: <http://www.cioms.ch/frame\_1991\_texts\_of\_guidelines.htm>.
 
 [^footnote32]: INTERNATIONAL CONFERENCE ON HARMONIZATION OF TECHNICAL
@@ -721,7 +721,7 @@ Disponível em: http://www.ich.org;cache;compo;276-254-1.html.
     committees that review biomedical researc*h. Geneva: WHO/TDR, 2000.
 
 [^footnote36]: NUFFIELD COUNCIL ON BIOETHICS. The ethics of research related to
-    health care in developing countries. London: NNuu-- ffield Council
+    health care in developing countries. London: Nuffield Council
     on Bioethics, 2002.
 
 [^footnote37]: UNESCO. *Declaração universal sobre bioética e direitos humanos*.
@@ -987,7 +987,7 @@ científica nacional, organizou audiências públicas e elaborou a
 Resolução CNS 196/1996, conhecida como Diretrizes e Normas
 Regulamentadoras de Pesquisas Envolvendo Seres Humanos.[^footnote67]
 
-### A Resolução CNS 196/96***
+### A Resolução CNS 196/96
 
 A Resolução CNS 196/1996 é um divisor de águas na ética em pesquisa no
 Brasil. Ela se fundamentou na teoria dos quatro princípios, que, por
@@ -1438,7 +1438,7 @@ RedParf-home.htm>.
 [^footnote47]: UNITED STATES OF AMERICA. FOOD AND DRUG ADMINISTRATION.
     INFORMATION SHEET GUIDANCES. Guidance for institutional review
     boards, clinical investigators, and sponsors \[homepage na
-    internet\]. \[Acesso em 4 mai. 2008.\] DDiissppoonível em:
+    internet\]. \[Acesso em 4 mai. 2008.\] Disponível em:
     <http://www.fda.gov/oc/ohrt/irbs/default.htm>
 
 [^footnote48]: UNITED STATES OF AMERICA. DEPARTMENT OF HEALTH & HUMAN SERVICES.
@@ -1561,7 +1561,7 @@ Health & Human Services. \[Acesso em 4 mai. 2008.\] Disponível em:
 [^footnote72]: FREITAS, C. B. D., HOSSNE, W. S. O papel dos comitês de ética em
     pesquisa na proteção do ser humano. Bioética \[periódico na
     internet\] – 2002 \[acesso em 30 abr. 2008\], 10(2): 129-46.
-    DDiissppoonível em:
+    Disponível em:
     <http://www.portalmedico.org.br/revista/bio10v2.htm>.
 
 [^footnote73]: COSTA, S. I. F. Ética em pesquisa e bioética. In: GUILHEM, D.,
@@ -1578,7 +1578,7 @@ Health & Human Services. \[Acesso em 4 mai. 2008.\] Disponível em:
 n\. 11.105, de 24 de março de 2005 \[homepage na internet\]. Brasília:
 PR, 2005. \[Acesso em 30 abr. 2008.\] Disponível em: <http://www.planalto.gov.br/ccivil\_03/\_Ato2004-2006/2005/Lei/L11105.htm>.
 
-[^footnote76]: BRASIL. MINISTÉRIO DA SAÚDE. Agência Nacional de Viigilância
+[^footnote76]: BRASIL. MINISTÉRIO DA SAÚDE. Agência Nacional de Vigilância
     Sanitária. Resolução RDC n. 219, de 20 de setembro de 2004
     \[homepage na internet\]. Brasília: Anvisa; 2004. \[Acesso em 30
     abr. 2008.\] Disponível em: <http: //e-legis.anvisa.gov.br/leisref/
@@ -2062,7 +2062,7 @@ representam mudanças importantes no sistema.[^footnote141], [^footnote142], [^f
     N., NEWMAN, T. B. *Delineando a pesquisa clínica: uma abordagem
     epidemiológica*. 2. ed. Porto Alegre: Artmed, 2003.
 
-[^footnote90]: CALVA-MERCADO, J. J. Estúdios clínicos experimentales. SSaalud
+[^footnote90]: CALVA-MERCADO, J. J. Estúdios clínicos experimentales. Salud
     Publica Mex 2000, 42(4): 349-58.
 
 [^footnote91]: MEDICAL RESEARCH COUNCIL. Streptomycin treatment of pulmonary
@@ -2132,7 +2132,7 @@ representam mudanças importantes no sistema.[^footnote141], [^footnote142], [^f
 [^footnote107]: VAN LUJIN, H. E. M., MUSSCHENGA, A.W., KEWS, R.B., ROBINSON, W.M.,
     AARONSON, N.K. Assessment of risk benefit ratio of phase II cancer
     clinical trials by institutional review board members. Ann Oncol
-    \[periódico na internet\] – 2002 \[\[aacceessso em 12 jun. 2008\],
+    \[periódico na internet\] – 2002 \[\[acesso em 12 jun. 2008\],
     13(8): 1307-13. Disponível em: <http://annonc.oxfordjournals.org/cgi/reprint/13/8/1307>.
 
 [^footnote108]: BRASIL. MINISTÉRIO DA SAÚDE. Conselho Nacional de Saúde. Conep –
@@ -2199,7 +2199,7 @@ representam mudanças importantes no sistema.[^footnote141], [^footnote142], [^f
     envolvendo seres humanos. Brasília: Ministério da Saúde, 1996.
 
 [^footnote123]: GUILHEM, D. *Escravas do risco: bioética, mulheres e aids*.
-    BBrraassíí-- lia: Finatec/Editora UnB, 2005.
+    Brasília: Finatec/Editora UnB, 2005.
 
 [^footnote124]: LEVINE, R. The use of placebos in randomized clinical trials. IRB
     1985, 7(2): 1-4.
@@ -2553,7 +2553,7 @@ human subjects. Bioethics 2001, 15(4): 364-370.
 
 US NATIONAL INSTITUTES OF HEALTH. Clinical trials.
 Glossary. \[homepage na internet\]. \[Acesso em 26 mai. 2008.\]
-DDiissponível em:
+Disponível em:
 <http://www.clinicaltrials.gov/ct2/info/glossary>
 
 WORLD HEALTH ORGANIZATION. Operational guidelines for ethics
